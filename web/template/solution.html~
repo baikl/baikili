@@ -1,0 +1,202 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>解决方案 -- 源清慧虹</title>
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="无锡源清慧虹信息科技有限公司是业内领先的以物联网技术研发和应用推广为主营业务的高新技术企业，是清华大学物联网技术唯一产业基地。">
+<meta name="keywords" content="无锡源清慧虹信息科技有限公司">
+<!-- Le styles -->
+<link href="/static/css/bootstrap.css?v=7ca2e017dcb9cbb0305acfd55566827f" rel="stylesheet" type="text/css" rel="stylesheet">
+<link href="/static/css/base.css?v=a335446a3c85f953c1a43a21f54d22fa" rel="stylesheet" type="text/css" rel="stylesheet">
+<link rel="shortcut icon" href="/static/icon.ico">
+<!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="/static/css/bootstrap-ie6.css">
+<![endif]-->
+<!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="/static/css/ie.css">
+<![endif]-->
+<link href="/static/css/bootstrap-responsive.css?v=b626be49731b63affaa1bd71fed6f8b8" rel="stylesheet">
+<!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+<!--[if lt IE 9]>
+<script src="static/js/html5shiv.js"></script>
+<![endif]-->
+<script src="/static/js/jquery-1.7.2.js?v=af693f9aea7dae36fb3bef4c9b6e56fb"></script>
+<script src="/static/js/bootstrap.min.js?v=051af58b6f8355455af3667084aa72e0"></script>
+<!--[if lte IE 6]>
+<script type="text/javascript" src="/static/js/bootstrap-ie.js?v=2491aeaab5285f685ce4236776f50e80"></script>
+<![endif]-->
+
+</head>
+<body>
+<div class="navbar navbar-inverse navbar-fixed-top ">
+<div class="navbar-inner">
+<div class="container-fluid">
+<button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<div class='container'>
+<a class="brand" href="/">源清慧虹科技</a>
+<div class="nav-collapse collapse">
+<ul class="nav">
+<li class="m_index"><a href="/">首页</a></li>
+
+
+<li class="m_company dropdown">
+<a href="/company.html" class="dropdown-toggle" data-toggle="dropdown">公司 <b class="caret"></b></a>
+<ul class="dropdown-menu">
+
+<li><a href="/company/about.html">关于我们</a></li>
+
+<li><a href="/company/zizhi.html">资质</a></li>
+
+<li><a href="/company/team.html">团队</a></li>
+
+<li><a href="/company/patent.html">专利</a></li>
+
+<li><a href="/company/news.html">新闻</a></li>
+
+<li><a href="/company/jobs.html">招聘</a></li>
+
+</ul>
+</li>
+
+
+
+<li class="m_product dropdown">
+<a href="/product.html" class="dropdown-toggle" data-toggle="dropdown">产品 <b class="caret"></b></a>
+<ul class="dropdown-menu">
+
+<li><a href="/product/sensor.html">传感器</a></li>
+
+<li><a href="/product/transfer.html">传输设备</a></li>
+
+</ul>
+</li>
+
+
+
+<li class="m_case"><a href="/case.html">案例</a></li>
+
+
+
+<li class="m_cloud"><a href="/cloud.html">云服务</a></li>
+
+
+
+<li class="m_solution"><a href="/solution.html">解决方案</a></li>
+
+
+
+<li class="m_technology dropdown">
+<a href="/technology.html" class="dropdown-toggle" data-toggle="dropdown">技术 <b class="caret"></b></a>
+<ul class="dropdown-menu">
+
+<li><a href="/technology/research.html">技术研究</a></li>
+
+<li><a href="/technology/tech_news.html">业内动态</a></li>
+
+</ul>
+</li>
+
+
+
+<li class="m_contact"><a href="/contact.html">联系我们</a></li>
+
+
+
+
+</ul>
+<script>
+!function ($) {
+$(function(){
+$('li.m_solution').addClass('active');
+})
+}(window.jQuery)
+</script>
+</div><!--/.nav-collapse -->
+</div>
+</div>
+</div>
+</div>
+<div class='big-banner'>
+<div class='container'>
+ <ul class="breadcrumb">
+<li><a href="/">源清慧虹</a> <span class="divider">/</span></li>
+
+<li class="active">解决方案</li>
+</ul>
+<h3>解决方案</h3>
+</div>
+</div>
+<div class="container-fluid container">
+<div class="row-fluid">
+<div class="span3">
+ 
+<div class="well contact">
+<ul class="nav nav-list">
+<li class="nav-header">联系我们</li>
+<li>电话:010-58856680</li>
+<li>传真:010-58856685</li>
+<li>热线:4006-266-208</li>
+<li>邮箱:contact@smartbow.net</li>
+</ul>
+</div><!--/.well -->
+</div><!--/span-->
+<div class="span9" style='min-height:400px;'>
+<div >
+
+<div class='boxitem'>
+<a href='/p/5296abca95f18d0eaeefcaaf.html'>
+<img src="/static/thumbnail/529f0fac95f18d0c71a77836/1386155948_fa1.png?1386155948" class="img-rounded">
+<p>“智慧基础设施”方案简介</p>
+</a>
+</div>
+
+<div class='boxitem'>
+<a href='/p/5412945ecf8e9b45a8c5343c.html'>
+<img src="/thumbnail/54165e4fcf8e9b45a8c53471/1410752079_bms.jpg?1410752079" class="img-rounded">
+<p>城市桥梁信息管理系统</p>
+</a>
+</div>
+
+<div class='boxitem'>
+<a href='/p/5296af5f95f18d0eaeefcac2.html'>
+<img src="/thumbnail/5296ac7e95f18d0eaeefcab4/1385606270_方案2.png?1385606270" class="img-rounded">
+<p>连续梁桥系统方案</p>
+</a>
+</div>
+
+<div class='boxitem'>
+<a href='/p/5296af4a95f18d0eaeefcac1.html'>
+<img src="/static/images/ronghu_jg.png" class="img-rounded">
+<p>斜拉桥系统方案</p>
+</a>
+</div>
+
+<div style='clear:both'></div>
+</div>
+
+</div><!--/span-->
+</div><!--/row-->
+<hr>
+<!-- FOOTER -->
+<footer style='text-align: center'>
+<p>&copy; 2013 源清慧虹信息科技有限公司, Inc. 苏ICP备13043359号</p>
+</footer>
+<script type="text/javascript">
+$(function(){
+$('.bs-docs-sideba').scrollspy();
+$('.dropdown-menu').on('touchstart.dropdown.data-api', function(e) { e.stopPropagation() })
+})
+</script>
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F674a3ef8c76128ab519d7a160345a5dd' type='text/javascript'%3E%3C/script%3E"));
+</script>
+</div><!--/.fluid-container-->
+</body>
+</html>

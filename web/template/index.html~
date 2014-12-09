@@ -1,0 +1,381 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>源清慧虹信息科技有限公司- 桥梁管养与桥梁结构健康监测金牌服务商</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="源清慧虹信息科技有限公司是业内领先的以物联网技术研发和应用推广为主营业务的高新技术企业，是清华大学物联网技术唯一产业基地。">
+<meta name="keywords" content="源清慧虹信息科技有限公司">
+<!-- Le styles -->
+<link href="static/css/bootstrap.css" rel="stylesheet">
+<link href="static/css/bootstrap-responsive.css" rel="stylesheet">
+<link href="static/css/base.css" rel="stylesheet">
+<link rel="shortcut icon" href="static/icon.ico">
+<!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="static/css/bootstrap-ie6.css">
+<![endif]-->
+<!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="static/css/ie.css">
+<![endif]-->
+<!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+<!--[if lt IE 9]>
+<script src="static/js/html5shiv.js"></script>
+<![endif]-->
+<script src="static/js/jquery-1.7.2.min.js"></script>
+<script src="static/js/bootstrap.min.js"></script>
+<style>
+/* CUSTOMIZE THE CAROUSEL
+-------------------------------------------------- */
+/* Carousel base class */
+.carousel {
+margin-bottom: 40px;
+min-height: 450px;
+}
+.carousel .container {
+position: relative;
+z-index: 9;
+}
+.carousel-control {
+height: 80px;
+margin-top: 0;
+font-size: 120px;
+text-shadow: 0 1px 1px rgba(0,0,0,.4);
+background-color: transparent;
+border: 0;
+z-index: 10;
+}
+.carousel .item {
+height: 500px;
+}
+.carousel img {
+position: absolute;
+top: 0;
+left: 0;
+min-width: 100%;
+height: 500px;
+}
+.carousel-caption h1 a{
+color: #FF7D05;
+text-decoration:none;
+}
+.carousel-caption p a{
+color: #ffffff;
+text-decoration:none;
+font-size: 16px;
+}
+.carousel-caption {
+background-color: transparent;
+position: static;
+max-width: 550px;
+min-height: 200px;
+padding:20px;
+margin-top: 200px;
+background-color: #000;
+opacity: 0.8;
+border-radius: 5px;
+}
+.carousel-caption h1,
+.carousel-caption .lead {
+margin: 0;
+line-height: 1.25;
+color: #fff;
+text-shadow: 0 1px 1px rgba(0,0,0,.4);
+}
+.carousel-caption .btn {
+margin-top: 10px;
+}
+.carousel-caption h1{
+margin-bottom: 25px;
+}
+/* MARKETING CONTENT
+-------------------------------------------------- */
+.navbox img{
+float: left;
+width: 90px;
+height: 60px;
+margin-right: 8px;
+}
+.navbox{
+border: 1px solid #cccccc;
+float: left;
+margin-right: 15px;
+width: 30%;
+font-size: 16px;
+font-weight: bold;
+-webkit-box-shadow: 0 2px 10px rgba(0,0,0,.25);
+-moz-box-shadow: 0 2px 10px rgba(0,0,0,.25);
+box-shadow: 0 2px 10px rgba(0,0,0,.25);
+filter: progid:DXImageTransform.Microsoft.Gradient(startColorStr='#E7E7E7',endColorStr='#ffffff',gradientType='0');
+background: -moz-linear-gradient(top, #E7E7E7, #ffffff);
+background: -o-linear-gradient(top,#E7E7E7, #ffffff);
+background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#E7E7E7), to(#ffffff));
+}
+.boxs a{
+color:#224F68;
+font-weight:bold;
+font-family: initial;
+}
+.boxs h4{
+color: #224F68;;
+font-weight:bold;
+font-size: 22px;
+margin: 5px;
+}
+.bottombar li a{
+color: #B3B3B3;
+}
+</style>
+</head>
+<body>
+<div class="navbar navbar-inverse navbar-fixed-top ">
+<div class="navbar-inner">
+<div class="container-fluid">
+<button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<div class='container'>
+<a class="brand" href="/">源清慧虹科技</a>
+<div class="nav-collapse collapse">
+<ul class="nav">
+<li class="m_index"><a href="/">首页</a></li>
+
+
+<li class="m_company dropdown">
+<a href="/company.html" class="dropdown-toggle" data-toggle="dropdown">公司 <b class="caret"></b></a>
+<ul class="dropdown-menu">
+
+<li><a href="/company/about.html">关于我们</a></li>
+
+<li><a href="/company/zizhi.html">资质</a></li>
+
+<li><a href="/company/team.html">团队</a></li>
+
+<li><a href="/company/patent.html">专利</a></li>
+
+<li><a href="/company/news.html">新闻</a></li>
+
+<li><a href="/company/jobs.html">招聘</a></li>
+
+</ul>
+</li>
+
+
+
+<li class="m_product dropdown">
+<a href="/product.html" class="dropdown-toggle" data-toggle="dropdown">产品 <b class="caret"></b></a>
+<ul class="dropdown-menu">
+
+<li><a href="/product/sensor.html">传感器</a></li>
+
+<li><a href="/product/transfer.html">传输设备</a></li>
+
+</ul>
+</li>
+
+
+
+<li class="m_case"><a href="/case.html">案例</a></li>
+
+
+
+<li class="m_cloud"><a href="/cloud.html">云服务</a></li>
+
+
+
+<li class="m_solution"><a href="/solution.html">解决方案</a></li>
+
+
+
+<li class="m_technology dropdown">
+<a href="/technology.html" class="dropdown-toggle" data-toggle="dropdown">技术 <b class="caret"></b></a>
+<ul class="dropdown-menu">
+
+<li><a href="/technology/research.html">技术研究</a></li>
+
+<li><a href="/technology/tech_news.html">业内动态</a></li>
+
+</ul>
+</li>
+
+
+
+<li class="m_contact"><a href="/contact.html">联系我们</a></li>
+
+
+
+
+</ul>
+<script>
+!function ($) {
+$(function(){
+$('li.m_index').addClass('active');
+})
+}(window.jQuery)
+</script>
+</div><!--/.nav-collapse -->
+</div>
+</div>
+</div>
+</div>
+ <!-- Carousel
+================================================== -->
+<div id="myCarousel" class="carousel slide">
+<div class="carousel-inner">
+
+
+<div class="item  active ">
+<img src="static/image/529f22ed95f18d0c711a2716/1386160877_sy3.jpg" alt="">
+<div class="container">
+<div class="carousel-caption">
+<h1><a href='/p/529459fdf8cab277bb73ee60.html'>高素质研发团队为您服务</a></h1>
+<p class="lead"><a href='/p/529459fdf8cab277bb73ee60.html'>技术团队由清华大学及国内知名院校的电子、计算机、土木等方面的教授、专家组成，在无线传感网应用领域的研发工作已经超过10年，主持或参加了863等多项重大科研计划。</a></p>
+</div>
+</div>
+</div>
+
+
+<div class="item ">
+<img src="/image/529f230b95f18d0c711a271a/1386160907_sp02.jpg?1386160907" alt="">
+<div class="container">
+<div class="carousel-caption">
+<h1><a href='/p/529459dbf8cab277bb73ee5f.html'>国际先进的安全监测解决方案</a></h1>
+<p class="lead"><a href='/p/529459dbf8cab277bb73ee5f.html'>我们拥有多项国际先进技术和全体系的自主知识产权。我们的技术方案已实用并获得用户认可，在各类传感器研制、无线组网方式和设备研发、监测系统集成、实现基于云计算的结构分析等方面，拥有针对各种桥型的完整经验。</a></p>
+</div>
+</div>
+</div>
+
+
+<div class="item ">
+<img src="/image/529f22e195f18d0c711a2712/1386160864_sy2.jpg?1386160864" alt="">
+<div class="container">
+<div class="carousel-caption">
+<h1><a href='/p/5293f757dbb70a15a9dbb6a7.html'>专注于公共设施安全监测</a></h1>
+<p class="lead"><a href='/p/5293f757dbb70a15a9dbb6a7.html'>源清慧虹是致力于为公共基础设施提供无线安全监测的系统集成和云服务高科技公司，能为桥梁、隧道、高铁、公路、地下管线、水坝、仓库等大型基础设施提供高精度的无线传感网监测系统，并为用户提供各种基于云计算的数据分析、储存、处理、分发和同步服务。</a></p>
+</div>
+</div>
+</div>
+
+
+</div>
+<a class="left carousel-control" href="#myCarousel" data-slide="prev">&lsaquo;</a>
+<a class="right carousel-control" href="#myCarousel" data-slide="next">&rsaquo;</a>
+</div><!-- /.carousel -->
+<div class="container ">
+<div class="boxs">
+<a href="company/news.html">
+<div class="navbox">
+<img src='image/529cc3a495f18d093e10ceaf/1386005412_u=827244612,1854936485&fm=23&gp=0.jpg?1386005412'/>
+<div>
+<h4>最新动态</h4>
+<p>您感兴趣的最新资讯</p>
+</div>
+</div>
+</a>
+<!-- /.span4 -->
+<a href="solution.html">
+<div class="navbox">
+<img src='image/529cac1695f18d093e6d4b8f/1385999382_f9198618367adab4ad0a08af8ad4b31c8601e400.jpg?1385999382'/>
+<div>
+<h4>解决方案</h4>
+<p>基于物联网和云服务</p>
+</div>
+</div>
+</a>
+<!-- /.span4 -->
+<a href="case.html">
+<div class="navbox">
+<img src='image/529c9bf195f18d093e6d4b7d/1385995249_u=1209965857,1547019417&fm=21&gp=0.png?1385995249'/>
+<div>
+<h4>成功案例</h4>
+<p>多个传感网桥梁监测案例</p>
+</div>
+</div>
+</a>
+<!-- /.span4 -->
+</div>
+<!-- /.row -->
+<div style='clear:both'></div>
+</div><!-- /.container -->
+<div class='bottombar'>
+<div class="container">
+<div class='row'>
+<div class='span2'>
+<h4>关于源清慧虹</h4>
+<ul>
+<li><a href="company/team.html">技术研发团队</a></li>
+<li><a href="company/about.html#q1">发展历程</a></li>
+<li><a href="company/zizhi.html#q2">合作信息</a></li>
+<li><a href="#">企业责任</a></li>
+</ul>
+</div>
+<div class='span2'>
+<h4>用户分类信息</h4>
+<ul>
+<li><a href="#">业务概述</a></li>
+<li><a href="company/jobs.html">招聘信息</a></li>
+<li><a href="#">市政合作文档</a></li>
+<li><a href="#">产品参数文档</a></li>
+</ul>
+</div>
+<div class='span2'>
+<h4>特色服务</h4>
+<ul>
+<li><a href="cloud.html">云服务</a></li>
+<li><a href="#">数据分析计算</a></li>
+<li><a href="#">自组网络</a></li>
+<li><a href="#">实时推送</a></li>
+</ul>
+</div>
+<div class='span2'>
+<h4>产品索引</h4>
+<ul>
+<li><a href="product/sensor.html">传感产品</a></li>
+<li><a href="product/transfer.html">传输设备</a></li>
+<li><a href="#">项目健康报告</a></li>
+</ul>
+</div>
+<div class='span2'>
+<h4>示范工程</h4>
+<ul>
+<li><a href="p/5296b0c495f18d0eaeefcad1.html">山东樵岭前</a></li>
+<li><a href="p/5296b0aa95f18d0eaeefcacc.html">南通新江海</a></li>
+<li><a href="p/5296b08b95f18d0eaeefcac7.html">无锡蓉湖</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<!-- FOOTER -->
+<footer style='text-align: center'>
+<p>&copy; 2013 源清慧虹信息科技有限公司, Inc. 苏ICP备13043359号</p>
+</footer>
+<script type="text/javascript">
+$(function(){
+$('.bs-docs-sideba').scrollspy();
+$('.dropdown-menu').on('touchstart.dropdown.data-api', function(e) { e.stopPropagation() })
+})
+</script>
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F674a3ef8c76128ab519d7a160345a5dd' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script>
+!function ($) {
+$(function(){
+// carousel demo
+$('#myCarousel').carousel({
+interval:5000,
+pause:'hover'
+});
+$('.dropdown-menu').on('touchstart.dropdown.data-api', function(e) { e.stopPropagation() })
+})
+}(window.jQuery)
+</script>
+<!--[if lte IE 6]>
+<script type="text/javascript" src="static/js/bootstrap-ie.js"></script>
+<![endif]-->
+</body>
+</html>
